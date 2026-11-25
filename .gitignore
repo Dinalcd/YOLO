@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+build/
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+app.env
+
+# Dataset & Weights
+runs/
+*.pt
+*.cache
+Face-Detection-1/test/
+Face-Detection-1/train/
+Face-Detection-1/valid/
+
+# OS files
+.DS_Store
+Thumbs.db
